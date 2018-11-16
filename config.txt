@@ -1,6 +1,6 @@
-﻿token=NTEyODExNjc4MTIzOTUwMDgx.Ds-4wQ.j4Jgh7jgR1hQAu2QZ0O8ibow5_0
+token=NTEyOTMxNzM5OTcxMjIzNTUz.DtAxLA.qScU9AISBOJsaGhcTT3cM2TV1pk
 owner=ا499982945088569344
-prefix= 2
-game= 2play
+prefix= Q
+game= Qplay
 stayinchannel=true
 songinstatus=true 
