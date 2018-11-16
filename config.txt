@@ -1,0 +1,6 @@
+﻿token=NTEyODExNjc4MTIzOTUwMDgx.Ds-4wQ.j4Jgh7jgR1hQAu2QZ0O8ibow5_0
+owner=ا499982945088569344
+prefix= 2
+game= 2play
+stayinchannel=true
+songinstatus=true 
