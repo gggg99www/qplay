@@ -1,5 +1,5 @@
 token=NTEyOTMxNzM5OTcxMjIzNTUz.DtAxLA.qScU9AISBOJsaGhcTT3cM2TV1pk
-owner=ا499982945088569344
+owner=499982945088569344
 prefix= Q
 game= Qplay
 stayinchannel=true
